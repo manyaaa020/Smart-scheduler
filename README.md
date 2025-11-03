@@ -1,1 +1,1 @@
-# Smart-scheduler
+Project: AI-Based Smart Scheduler Chatbot — an intelligent assistant that automates task reminders, calendar scheduling, email drafting, note-taking, and multilingual support while enforcing policy constraints. Mapped SDGs: 8 (Decent Work), 9 (Industry & Innovation), 11 (Sustainable Cities).
